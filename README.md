@@ -1,5 +1,5 @@
 # bettervideothumb
-Improves the thumbnail of videos on LynxChan 2.6
+Improves the thumbnail of videos on LynxChan 2.7
 By design, LynxChan picks the very first frame of a video and uses it as a thumb (if you have video thumbs enabled). This often results in an unenticing black image as a thumb. This addon changes that behavior by instead picking the thumb at 50% playtime of the video. The source code is taken from LynxChanAddon-KC.
 
 <b>Installation instructions:</b>
