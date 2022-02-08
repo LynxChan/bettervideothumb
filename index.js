@@ -6,7 +6,7 @@ var settings = require('../../settingsHandler').getGeneralSettings();
 var uploadHandler = require('../../engine/uploadHandler.js');
 var logger = require('../../logger');
 
-exports.engineVersion = '2.6';
+exports.engineVersion = '2.7';
 
 exports.setFfmpegThumb = function () {
 
